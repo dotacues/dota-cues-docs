@@ -1,0 +1,17 @@
+# GitHub Pages / Jekyll configuration.
+# Using the minima theme — clean, readable, minimal styling out of the box.
+title: Dota Cues
+description: Audio event timer for Dota 2 — public documentation.
+theme: minima
+
+# Suppress the auto-generated "by author" footer attribution we don't need.
+minima:
+  skin: dark
+
+# Cleaner permalinks — strips the .html extension from URLs.
+permalink: /:basename
+
+# Don't include README.md in the published output (it's GitHub-only metadata).
+exclude:
+  - README.md
+  - _config.yml
