@@ -1,4 +1,4 @@
-# Dota Cues — Public Documentation
+# Dota Cues: Public Documentation
 
 This repository hosts the public-facing documents for the
 [Dota Cues](https://github.com/dotacues/dota-cues) Overwolf app.

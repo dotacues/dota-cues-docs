@@ -1,5 +1,5 @@
 ---
-title: Dota Cues — Documentation
+title: "Dota Cues: Documentation"
 ---
 
 # Dota Cues

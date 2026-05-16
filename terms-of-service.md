@@ -1,6 +1,6 @@
-# Dota Cues — Terms of Service
+# Dota Cues: Terms of Service
 
-**Last updated: 2026-05-06**
+**Last updated: 2026-05-16**
 
 Welcome to Dota Cues, an audio event timer for Dota 2 distributed as an
 Overwolf Native app. These terms ("Terms") govern your use of the app.
@@ -53,7 +53,7 @@ relevant functionality.
 To the maximum extent permitted by applicable law, the developers of
 Dota Cues are not liable for any direct, indirect, incidental, special,
 consequential, or exemplary damages arising from or in connection with
-your use of, or inability to use, the app — including but not limited
+your use of, or inability to use, the app, including but not limited
 to lost matches, MMR changes, hardware issues, or third-party platform
 disruptions.
 

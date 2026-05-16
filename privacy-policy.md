@@ -1,6 +1,6 @@
-# Dota Cues — Privacy Policy
+# Dota Cues: Privacy Policy
 
-**Last updated: 2026-05-06**
+**Last updated: 2026-05-16**
 
 Dota Cues is an audio event timer for Dota 2, distributed as an Overwolf
 Native app. This privacy policy explains what data the app does and does
@@ -29,7 +29,7 @@ The following data is processed locally and never leaves your machine:
   `%LOCALAPPDATA%\Overwolf\settings\` or equivalent platform location.
 
 - **Real-time game state.** While Dota 2 is running, the app reads game
-  events from Overwolf's Game Events Provider (GEP) API — your hero
+  events from Overwolf's Game Events Provider (GEP) API: your hero
   level, current gold, buyback cost, kill / death / assist counts, the
   match state machine, the in-game clock, and a handful of similar
   fields. This data is processed in memory only and is not written to
@@ -51,7 +51,7 @@ practices governed by its own privacy policy, available at
 <https://www.overwolf.com/privacy/>. Your relationship with Overwolf is
 separate from your relationship with Dota Cues.
 
-The app reads voice clip MP3 files bundled with the app itself — no
+The app reads voice clip audio files bundled with the app itself, no
 streaming, no CDN, no per-clip network requests.
 
 ## Children
