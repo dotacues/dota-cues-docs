@@ -75,12 +75,22 @@ worthwhile I will build it. Contact details are on the Overwolf listing.
 
 **Will it stay free? Are you going to add a paywall?**
 
-The core stays free, that is the intent. The usual way Overwolf apps
-make money is ads in a separate window. I am deliberately not doing
-that, it works against the no-clutter idea this whole app is built on.
-If it ever grows and I monetize, it would be an optional paid upgrade
-for extras like additional voice packs, never ads, never selling data.
-The core experience stays free either way.
+The core stays free, forever. Every cue that ships free stays free. I am
+not adding ads (the usual Overwolf model), it works against the
+no-clutter idea this whole app is built on, and I am not selling data.
+
+Here is the honest plan, so it is never a surprise. As the app grows I
+intend to add an optional "Supporter" upgrade: a cheap, one-time way for
+players who like it to fund development and unlock extras. Likely
+extras: premium and extra voice packs, generating a pack in your own
+voice, more languages, advanced Roshan / Aegis / Tormentor respawn
+timers (once the game data allows it), and saved cue profiles. None of
+that gates what the app does today. Supporting is a thank-you with
+perks, not a toll gate.
+
+My promises: core free forever, no ads ever, no data sold ever, nothing
+that is free today ever moved behind the upgrade, and any paid tier
+announced here before it exists.
 
 ## Roadmap
 
@@ -109,6 +119,22 @@ actually ask for.
 
 - Updated promptly when a Dota patch changes the timing tables. The app
   shows which patch it is calibrated for in the footer.
+
+**Supporter tier (planned, optional)**
+
+A future optional upgrade to fund development, never required to use the
+app. Candidate perks, all additive on top of the free core:
+
+- Premium and extra voice packs
+- A pack generated in your own voice
+- Extra languages beyond the free base set
+- Advanced Roshan, Aegis, and Tormentor respawn timers (once the game
+  data exposes them reliably)
+- Multiple saved cue profiles (per role or per hero)
+
+Guardrails that will not change: core free forever, no ads, no data
+sold, nothing free today ever moved behind the upgrade, and it gets
+announced here before it ships.
 
 If something you want is not here, that is exactly the kind of message I
 want. The roadmap is shaped by feedback, not set in stone.
