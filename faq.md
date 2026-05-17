@@ -20,8 +20,11 @@ hear what is coming.
 
 **Is it free? Ads? Accounts?**
 
-Free. No ads. No account. No paid features. It collects zero data,
-nothing leaves your machine.
+Free to use, no account needed. It is ad-supported: ads appear only
+inside the Dota Cues app window, never as an in-game overlay and never
+interrupting the audio cues during a match. An optional subscription
+removes ads and unlocks extras. Ads are served through Overwolf's
+standard ad system; the app itself does not sell your data.
 
 **Is this allowed by Valve? Can I get banned?**
 
@@ -33,8 +36,10 @@ permits.
 **Why Overwolf?**
 
 Because it is the only sanctioned way to read Dota's official game
-events. The app uses minimal permissions, has no overlay, and collects
-no data. If Overwolf is not for you, that is completely fair.
+events. The app uses minimal permissions and has no in-game overlay.
+Overwolf also handles the ad system that keeps the app free and the
+optional subscription that removes ads. If Overwolf is not for you, that
+is completely fair.
 
 **Is the voice AI?**
 
@@ -73,24 +78,21 @@ ask, and it moves up the list.
 Tell me. The whole project is feedback driven. If a request is
 worthwhile I will build it. Contact details are on the Overwolf listing.
 
-**Will it stay free? Are you going to add a paywall?**
+**Is it free? How is it funded?**
 
-The core stays free, forever. Every cue that ships free stays free. I am
-not adding ads (the usual Overwolf model), it works against the
-no-clutter idea this whole app is built on, and I am not selling data.
+The full cue experience is free to play. The app is supported by ads
+shown inside the Dota Cues window, which is what keeps it free for
+everyone. The ads are never an in-game overlay and never interrupt the
+audio cues during a match.
 
-Here is the honest plan, so it is never a surprise. As the app grows I
-intend to add an optional "Supporter" upgrade: a cheap, one-time way for
-players who like it to fund development and unlock extras. Likely
-extras: premium and extra voice packs, generating a pack in your own
-voice, more languages, advanced Roshan / Aegis / Tormentor respawn
-timers (once the game data allows it), and saved cue profiles. None of
-that gates what the app does today. Supporting is a thank-you with
-perks, not a toll gate.
+If you would rather not see ads, an optional subscription removes them
+and unlocks extras: premium and extra voice packs, generating a pack in
+your own voice, more languages, advanced Roshan / Aegis / Tormentor
+respawn timers (once the game data allows it), and saved cue profiles.
 
-My promises: core free forever, no ads ever, no data sold ever, nothing
-that is free today ever moved behind the upgrade, and any paid tier
-announced here before it exists.
+What stays true either way: every cue the app plays is available on the
+free, ad-supported tier. The subscription is for removing ads and adding
+extras, not for unlocking the core timing cues. No in-game overlay, ever.
 
 ## Roadmap
 
@@ -120,11 +122,12 @@ actually ask for.
 - Updated promptly when a Dota patch changes the timing tables. The app
   shows which patch it is calibrated for in the footer.
 
-**Supporter tier (planned, optional)**
+**Subscription (planned, optional)**
 
-A future optional upgrade to fund development, never required to use the
-app. Candidate perks, all additive on top of the free core:
+The app is free and ad-supported. An optional subscription is planned
+for players who want to support development and get more:
 
+- No ads
 - Premium and extra voice packs
 - A pack generated in your own voice
 - Extra languages beyond the free base set
@@ -132,9 +135,9 @@ app. Candidate perks, all additive on top of the free core:
   data exposes them reliably)
 - Multiple saved cue profiles (per role or per hero)
 
-Guardrails that will not change: core free forever, no ads, no data
-sold, nothing free today ever moved behind the upgrade, and it gets
-announced here before it ships.
+What will not change: every timing cue stays available on the free,
+ad-supported tier, the subscription is for removing ads and adding
+extras, and there is never an in-game overlay.
 
 If something you want is not here, that is exactly the kind of message I
 want. The roadmap is shaped by feedback, not set in stone.
