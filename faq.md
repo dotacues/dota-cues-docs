@@ -86,9 +86,7 @@ everyone. The ads are never an in-game overlay and never interrupt the
 audio cues during a match.
 
 If you would rather not see ads, an optional subscription removes them
-and unlocks extras: premium and extra voice packs, generating a pack in
-your own voice, more languages, advanced Roshan / Aegis / Tormentor
-respawn timers (once the game data allows it), and saved cue profiles.
+and adds two things: extra voice packs and extra languages.
 
 What stays true either way: every cue the app plays is available on the
 free, ad-supported tier. The subscription is for removing ads and adding
@@ -128,16 +126,12 @@ The app is free and ad-supported. An optional subscription is planned
 for players who want to support development and get more:
 
 - No ads
-- Premium and extra voice packs
-- A pack generated in your own voice
-- Extra languages beyond the free base set
-- Advanced Roshan, Aegis, and Tormentor respawn timers (once the game
-  data exposes them reliably)
-- Multiple saved cue profiles (per role or per hero)
+- Extra voice packs
+- Extra languages
 
 What will not change: every timing cue stays available on the free,
 ad-supported tier, the subscription is for removing ads and adding
-extras, and there is never an in-game overlay.
+voices and languages, and there is never an in-game overlay.
 
 If something you want is not here, that is exactly the kind of message I
 want. The roadmap is shaped by feedback, not set in stone.
