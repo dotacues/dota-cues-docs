@@ -1,6 +1,6 @@
 # Dota Cues: Privacy Policy
 
-**Last updated: 2026-05-17**
+**Last updated: 2026-09-05**
 
 Dota Cues is an audio event timer for Dota 2, distributed as an Overwolf
 Native app. This privacy policy explains what data the app does and does
@@ -36,6 +36,19 @@ subscribe, the purchase and entitlement are processed through Overwolf's
 payment and subscription system under Overwolf's terms and privacy
 policy. Dota Cues does not see or store your payment details.
 
+## Uninstall survey
+
+If you uninstall Dota Cues, the app opens a short feedback form in your
+browser as it is removed. It is entirely optional: closing the tab is a
+complete answer, and nothing is sent unless you choose to fill the form
+in and submit it.
+
+The form is a Google Form with email collection switched off, so
+responses are anonymous. Dota Cues does not attach your settings, your
+logs, your match data, or any identifier to it, and cannot tie a response
+back to you. If you do submit one, Google processes it under its own
+privacy policy.
+
 ## What stays on your computer
 
 The following is processed locally and is not sent anywhere by Dota
@@ -66,6 +79,11 @@ its privacy policy at <https://www.overwolf.com/privacy/>. Overwolf's
 advertising partners may process advertising data under their own
 policies. Your relationship with Overwolf and those partners is separate
 from your relationship with Dota Cues.
+
+The optional uninstall survey is hosted on Google Forms. Google's
+handling of anything you choose to submit is governed by its privacy
+policy at <https://policies.google.com/privacy>. Opening the form sends
+nothing on its own; only a response you submit reaches Google.
 
 Voice clip audio files are bundled with the app. No streaming, no CDN,
 no per-clip network requests by Dota Cues.
